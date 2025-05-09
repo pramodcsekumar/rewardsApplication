@@ -1,0 +1,6 @@
+com\rewards\controller\RewardsController.class
+com\rewards\model\Transaction.class
+com\rewards\model\MonthlyReward.class
+com\rewards\model\Customer.class
+com\rewards\service\RewardsService.class
+com\rewards\RewardsApplication.class
